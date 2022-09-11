@@ -1,0 +1,1 @@
+function sortArray(array) {}
